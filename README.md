@@ -114,14 +114,3 @@ The notebook contains model performance metrics and plots. Look for the evaluati
 
 ---
 
-## License
-
-This repository is released under the MIT License. Update as appropriate for your project.
-
----
-
-## Contact
-
-If you have questions or suggestions, open an issue or contact the project owner.
-
-*Generated README — feel free to edit this file in the notebook or on GitHub.*
